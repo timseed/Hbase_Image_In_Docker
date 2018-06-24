@@ -1,0 +1,3 @@
+from harisekhon/hbase
+add zookeeper.sh /hbase/bin/zookeepers.sh
+run chmod +x /hbase/bin/zookeepers.sh
